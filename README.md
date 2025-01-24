@@ -8,8 +8,8 @@ Welcome to the **Anemia Analysis Dashboard**! This project was created to explor
 Through this interactive **Power BI dashboard**, users can visualize key health metrics, including **pixel composition** and **hemoglobin levels**, and examine how they correlate with **anemia status**. The goal of this project is to raise awareness about anemia, highlight potential gender differences, and encourage further research for better detection and treatment strategies.
 
 - Anemia [Dataset](https://github.com/NishaChandila/Anemia-Analysis/blob/main/file_.csv)
-- Python [EDA](https://github.com/NishaChandila/Anemia-Analysis/blob/main/anaemia-prediction.ipynb)
-- Power Bi [Dashboard](https://github.com/NishaChandila/Anemia-Analysis/blob/main/Anemia-Dashboard.pdf)
+- Anemia [Python EDA](https://github.com/NishaChandila/Anemia-Analysis/blob/main/anaemia-prediction.ipynb)
+- Anemia [Power Bi Dashboard](https://github.com/NishaChandila/Anemia-Analysis/blob/main/Anemia-Dashboard.pdf)
 
 ## Data Structure
 The dataset used in this analysis includes key health metrics that help us understand **anemia** and its correlation with various factors. Below are the columns analyzed in the dashboard:
@@ -38,7 +38,7 @@ The dataset used in this analysis includes key health metrics that help us under
 - **KPI cards** display key metrics, such as average **hemoglobin levels**, with slicers for easy filtering of data by **sex** and **anemia status**.
 - The dashboard integrates **RGB pixel data** to analyze correlations between **pixel composition** and **anemia**, supporting data-driven health interventions.
 
-- Power Bi [Dashboard](https://github.com/NishaChandila/Anemia-Analysis/blob/main/Anemia-Dashboard.pdf)
+- Anemia [Power Bi Dashboard](https://github.com/NishaChandila/Anemia-Analysis/blob/main/Anemia-Dashboard.pdf)
 
 ### Python Executive Summary:
 - **Data Encoding**: Categorical variables (**Sex** and **Anaemic**) were encoded into numerical values for further analysis.
@@ -48,8 +48,8 @@ The dataset used in this analysis includes key health metrics that help us under
 - **Model Evaluation**: The performance of the **KNN classifier** was assessed using a **confusion matrix**, highlighting prediction accuracy.
 - **Statistical Summary**: **Descriptive statistics** provided insights into the dataset's distribution, including **min/max values** and **unique counts**.
 
-- Python [EDA](https://github.com/NishaChandila/Anemia-Analysis/blob/main/anaemia-prediction.ipynb)
-
+- Anemia [Python EDA](https://github.com/NishaChandila/Anemia-Analysis/blob/main/anaemia-prediction.ipynb)
+  
 ## Recommendation
 - **Data Expansion**: Collect a larger dataset to capture more diverse health metrics, enabling more accurate insights and trend analysis.
 - **Gender-Specific Interventions**: Focus on tailored health interventions for **females**, as they show a higher prevalence of anemia compared to males.
@@ -57,6 +57,5 @@ The dataset used in this analysis includes key health metrics that help us under
 - **Regular Monitoring**: Encourage regular **hemoglobin level** checks, particularly for populations with high anemia risk, to support early detection and timely treatment.
 
 - Anemia [Dataset](https://github.com/NishaChandila/Anemia-Analysis/blob/main/file_.csv)
-- Python [EDA](https://github.com/NishaChandila/Anemia-Analysis/blob/main/anaemia-prediction.ipynb)
-- Power Bi [Dashboard](https://github.com/NishaChandila/Anemia-Analysis/blob/main/Anemia-Dashboard.pdf)
-
+- Anemia [Python EDA](https://github.com/NishaChandila/Anemia-Analysis/blob/main/anaemia-prediction.ipynb)
+- Anemia [Power Bi Dashboard](https://github.com/NishaChandila/Anemia-Analysis/blob/main/Anemia-Dashboard.pdf)
